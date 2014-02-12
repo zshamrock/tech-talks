@@ -1,0 +1,16 @@
+Notes:
+- show the presentation
+- show the starting Emacs and the final one
+- run key-mon
+- start with the configure the emacs-clojure-meetup/hacking :)
+- maybe start with the download version (pure clean)
+- try to find the empty Emacs config file
+- use C-h a lot
+- start with the packages install
+- play around with ("" . "") and ("" "")
+- menu-bar-open
+- set/setq
+after-init-hook
+- during the talk consult the init-baseline.el
+M-x eval-buffer or M-x load-file (will load the default - to load config without Emacs restart)
+describe-package
